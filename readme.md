@@ -3,11 +3,11 @@ A script in python using selenium to printscreen sites page for pre-release chec
 
 ## Parameters
 
-Full Drupal Site URL: https://www.zoocha.com/
+Full Drupal Site URL: https://site-url
 
-ULI: /user/reset/1/17081289523/FF27SriKDTgOYOk6BpUyZJLeN_Lv7C_G9jm_DYpXUlI/login
+ULI: /user/reset/user-id/17081289523/hash/login
 
-URL page to be checked: https://www.zoocha.com/about 
+URL page to be checked: ttps://site-url/path
 ## How to setup
 <code>
 pip install -r requirements.txt   
